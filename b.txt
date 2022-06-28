@@ -1,0 +1,4 @@
+asdafa
+gdgdf
+
+para i = 0 hasta n-1 con paso 1 hacer
